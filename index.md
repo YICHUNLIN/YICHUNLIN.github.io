@@ -35,6 +35,8 @@
 |Ubuntu 14.04 or latter|可架設，但仍有進步空間|發展時期|
 |Docker|可架設，但仍有進步空間|發展時期|
 |Wordpress|可架設|發展時期|
+|Autodesk Forge|可略懂的開發|發展時期|
+|Autodesk Revit API|可略懂的開發|發展時期|
 
 ### 興趣
 
