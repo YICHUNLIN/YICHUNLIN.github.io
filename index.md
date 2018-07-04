@@ -1,12 +1,11 @@
 ## 我-林逸群
 
-
-
 ### 學歷
 
-|---|---|---|
-|學位|畢業年|學校|
-
+|---|---|---|---|
+|學位|在學期間|學校|系所|
+|大學|2010/09~2015/06|國立臺北科技大學|資訊工程系|
+|碩士|2016/09~2018/07|國立交通大學|土木工程系|
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
