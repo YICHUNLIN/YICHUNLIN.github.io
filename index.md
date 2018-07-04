@@ -14,24 +14,32 @@
 |---|---|---|
 |C&C++|非必要不想碰|發展時期|
 |C#|可靈活應用|發展時期|
-||ASP.net|略懂|
-||視窗程式設計|可以開發|
 |Javascript|快要可靈活應用|半成熟期|
-||nodejs|可以開發|
-||Angularjs|略懂，可以開發|
-||React|略懂，摸索中，可以開發|
 |Objective-c|可靈活應用|半成熟期|
 |Swift|略懂，要寫也是可以|發展時期|
 |Python|可靈活應用，但仍略懂|發展時期|
+
+#### 程式語言框架
+
+|---|---|---|
+|C#|ASP.net|略懂|
+|C#|視窗程式設計|可以開發|
+|Javascript|nodejs|可以開發|
+|Javascript|Angularjs|略懂，可以開發|
+|Javascript|React|略懂，摸索中，可以開發|
 
 #### 其他
 
 |---|---|---|
 |MySQL / MariaDB|可以規劃與架設|半成熟期|
-|Ubuntu 14.04 or latter|可架設，但仍需進步|發展時期|
-|Docker|可架設，但仍需進步|發展時期|
+|Ubuntu 14.04 or latter|可架設，但仍有進步空間|發展時期|
+|Docker|可架設，但仍有進步空間|發展時期|
 |Wordpress|可架設|發展時期|
 
 ### 興趣
+
+|---|---|---|
+|Raspberry pi|玩具|發展時期|
+|Arduino|玩具|發展時期|
 
 ### 經歷
