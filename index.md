@@ -1,9 +1,9 @@
-## 我-林逸群
+## 林逸群 is me, I Chun Lin
 
 連絡電話: 0911590066
 email: yichun03@gmail.com
 
-### 學歷
+### Education
 
 |---|---|---|---|
 |學位|在學期間|學校|系所|
@@ -12,7 +12,7 @@ email: yichun03@gmail.com
 
 ### SKILL
 
-#### 程式語言
+#### Program Language
 
 |---|---|---|
 |語言|評語|熟悉度|
@@ -23,7 +23,7 @@ email: yichun03@gmail.com
 |Swift|略懂，要寫也是可以|發展時期|
 |Python|可靈活應用，但仍略懂|發展時期|
 
-#### 程式語言框架
+#### Frameworks of Program Language
 
 |---|---|---|
 |語言|框架|熟悉度及評語|
@@ -33,7 +33,7 @@ email: yichun03@gmail.com
 |Javascript|Angularjs|略懂，可以開發|
 |Javascript|React|略懂，摸索中，可以開發|
 
-#### 其他
+#### Other
 
 |---|---|---|
 |類型|評語|熟悉度|
@@ -45,13 +45,13 @@ email: yichun03@gmail.com
 |Autodesk Revit API|可略懂的開發|發展時期|
 |網頁開發|全端-略懂|發展時期|
 
-### 玩具
+### Toy
 
 |---|---|
 |Raspberry pi|發展時期|
 |Arduino|發展時期|
 
-### 論文研究
+### Thesis
 
 題目: 建置施工查驗照片防假防錯機制與儲存自動化系統
 
