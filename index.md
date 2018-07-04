@@ -7,34 +7,31 @@
 |大學|2010/09~2015/06|國立臺北科技大學|資訊工程系|
 |碩士|2016/09~2018/07|國立交通大學|土木工程系|
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 技能
 
-```markdown
-Syntax highlighted code block
+#### 程式語言
 
-# Header 1
+|---|---|---|
+|C&C++|非必要不想碰|發展時期|
+|C#|可靈活應用|發展時期|
+||ASP.net|略懂|
+||視窗程式設計|可以開發|
+|Javascript|快要可靈活應用|半成熟期|
+||nodejs|可以開發|
+||Angularjs|略懂，可以開發|
+||React|略懂，摸索中，可以開發|
+|Objective-c|可靈活應用|半成熟期|
+|Swift|略懂，要寫也是可以|發展時期|
+|Python|可靈活應用，但仍略懂|發展時期|
 
-## Header 2
+#### 其他
 
-### Header 3
+|---|---|---|
+|MySQL / MariaDB|可以規劃與架設|半成熟期|
+|Ubuntu 14.04 or latter|可架設，但仍需進步|發展時期|
+|Docker|可架設，但仍需進步|發展時期|
+|Wordpress|可架設|發展時期|
 
-- Bulleted
-- List
+### 興趣
 
-1.  Numbered
-2.  List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YICHUNLIN/YICHUNLIN.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 經歷
